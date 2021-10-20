@@ -6,6 +6,6 @@ Reproducibility for "Discovery of Novel Trans-Ancestry and Ancestry-Specific Gen
 | ------------- | ------------- |
 | 1 | analyze-testosterone-gwas.ipynb  | 
 | 2 | condx.ipynb  | 
-| 3 | genetic_correlation.ipynb \\ genetic_correlation_ldhub.ipynb  | 
-| 4 | genetic_correlation.ipynb \\ genetic_correlation_ldhub.ipynb  | 
+| 3 | genetic_correlation.ipynb \n genetic_correlation_ldhub.ipynb  | 
+| 4 | genetic_correlation.ipynb \n genetic_correlation_ldhub.ipynb  | 
 
